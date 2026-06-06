@@ -1,0 +1,6 @@
+{
+  "name": "AI English 9 Exam Coach",
+  "description": "EdTech platform helping grade 9 students prepare for the high school entrance English exam with AI-powered automatic grading, weakness mapping, and personalized 7-day study plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
